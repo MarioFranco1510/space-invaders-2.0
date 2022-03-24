@@ -1,1 +1,2 @@
-# space-invaders-2.0
+# SpaceInvaders
+SpaceInvaders
